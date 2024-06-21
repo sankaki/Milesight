@@ -1,5 +1,5 @@
 
-![Milesight Logo](http://resource.milesight-iot.com/Support/lockon/ChirpStack-v4-doc/Milesight-logo.png "Milesight Logo")
+[![Milesight Logo](http://resource.milesight-iot.com/Support/lockon/ChirpStack-v4-doc/Milesight-logo.png)](https://www.milesight.com/)
 
 # How to Connect a Milesight Gateway to Chirpstack v4 Platform
 
@@ -24,8 +24,9 @@
 - A fully functional Chirpstack v4 system is required. For this guide, we use a pre-deployed test environment accessible at: [http://192.168.45.221:8080/](http://192.168.45.221:8080/).
 
 ### Device Details
+<img src="http://resource.milesight-iot.com/Support/lockon/ChirpStack-v4-doc/UG65.244.png" alt="Milesight UG65 Gateway Device" style="width:50%;">
+
 - The device used for this test is the Milesight Semi-industrial LoRaWAN Gateway UG65 with the following specifications:
-  - 
   - Firmware version: 60.0.0.43
   - Hardware version: V 1.3
 
