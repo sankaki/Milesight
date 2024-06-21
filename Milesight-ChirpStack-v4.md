@@ -57,7 +57,6 @@
 3. Check the `Connect Status` under the `Multi-Destination` section for the `Type` `ChirpStack-v4`. If it shows `Connected`, the gateway configuration is successful.
 <img src="http://resource.milesight-iot.com/Support/lockon/ChirpStack-v4-doc/Config-Gateway-02.png" alt="Gateway configuration complete" style="width:50%;">
 
-
 ## Adding the Gateway to Chirpstack
 
 ### Logging into Chirpstack
