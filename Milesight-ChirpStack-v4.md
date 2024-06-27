@@ -15,10 +15,11 @@
    - [Logging into Chirpstack](#logging-into-chirpstack)
    - [Adding the Gateway](#adding-the-gateway)
    - [Verifying the Gateway Connection](#verifying-the-gateway-connection)
-4. [Finally](#Finally)
+4. [Finally](#finally)
 
 ## Prerequisites
 
+### Device Details
 - [UG65 Product page](https://www.milesight.com/iot/product/lorawan-gateway/ug65)
 - [UG67 Product page](https://www.milesight.com/iot/product/lorawan-gateway/ug67)
 
